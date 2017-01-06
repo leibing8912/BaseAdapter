@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HongYangBaseAdapterDemo</string>
+    <string name="title_activity_hy_adapter">HyAdapterActivity</string>
 </resources>

@@ -95,7 +95,7 @@ public class MsgAdapter extends BaseAdapter{
         this.mData = mData;
         MsgAdapter.this.notifyDataSetChanged();
     }
-    
+
     /**
      * @interfaceName: ViewHolder
      * @interfaceDescription: 视图容器
